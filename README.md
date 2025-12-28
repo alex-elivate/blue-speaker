@@ -1,3 +1,7 @@
+# What is this?
+
+My Sony SRS XB12 stopped connecting over bluetooth so I replaced the board with an ESP32, small amp, and battery charger.  $15 total.
+
 # Blue Speaker - ESP32 Bluetooth A2DP Speaker
 
 A Bluetooth audio receiver for ESP32 that streams A2DP audio to an I2S amplifier (MAX98357 or similar).
