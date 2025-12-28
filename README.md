@@ -77,6 +77,9 @@ To change the device name, edit [src/main.c](src/main.c#L31):
 ```c
 #define BT_SPEAKER_NAME "Blue Speaker"
 ```
+## Hardware
+
+Important: Don't make the same mistake I did and forget to connect the grounds between the amp and ESP32 if using 2 seperate power suppies, for example if the ESP32 is connected to the computer for flashing and you're testing the battery charger connected to the amp. 
 
 ## License
 
